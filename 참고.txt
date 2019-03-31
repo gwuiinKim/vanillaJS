@@ -1,0 +1,10 @@
+localStorage에는 오직 string 형태로만 저장가능
+-> JSON.stringify(object) 하게 되면 object도 저장할 수 있게 되는 개념!
+
+console.dir을 통해서 보면 많은 정보를 얻을 수 있음. 개발할 때 도움될듯
+
+filter는 array를 보면서 true인 item만 가지고 새로운 함수를 만들게됨
+
+foreach 도 array각 요소별 함수
+
+잘 안되는 것 같으면 console.log 해서 확인해보면 됨
